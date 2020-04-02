@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">CoolChat</string>
+    <string name="input_text">Введите сообщение</string>
+    <string name="input_email">Ваш email</string>
+    <string name="input_name">Ваше имя</string>
+    <string name="button_sign">Sign in</string>
+    <string name="input_password">Ваш пароль</string>
+    <string name="log_in">Tap To Log In</string>
+</resources>
