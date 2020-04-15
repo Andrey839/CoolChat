@@ -6,4 +6,6 @@
     <string name="button_sign">Sign in</string>
     <string name="input_password">Ваш пароль</string>
     <string name="log_in">Tap To Log In</string>
+    <string name="repeat_password">Повторите пароль</string>
+    <string name="delete_user">Удалить аккаунт</string>
 </resources>

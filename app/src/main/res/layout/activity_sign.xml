@@ -36,6 +36,17 @@
         android:layout_marginTop="20dp"/>
 
     <EditText
+        android:id="@+id/editRepeatPassword"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+        android:ems="10"
+        android:hint="@string/repeat_password"
+        android:inputType="textPassword"
+        android:textColor="@android:color/black"
+        android:textSize="20dp" />
+
+    <EditText
         android:id="@+id/editName"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
@@ -65,6 +76,7 @@
         android:text="@string/log_in"
         android:textAlignment="center"
         android:textSize="18sp"
+        android:onClick="tapToLogIn"
         android:clickable="true"/>
 
 </LinearLayout>
